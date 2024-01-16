@@ -26,7 +26,6 @@
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
 </div><br>
-출처: https://easyhomputer.tistory.com/22 [6_oHji:티스토리]
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=hanshinjung15)](https://solved.ac/hanshinjung15)
