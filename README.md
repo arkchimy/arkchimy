@@ -6,3 +6,5 @@
 <img src="https://github-profile-trophy.vercel.app/?username=arkchimy&margin-w=15&row=2&column=4&no-frame=true&theme=onedark">
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=flat-square&logo=Unreal%20Engine&logoColor=white) ![DirectX](https://img.shields.io/badge/DirectX-0078D6?style=flat-square&logo=DirectX&logoColor=white) ![WinAPI](https://img.shields.io/badge/WinAPI-00AEEF?style=flat-square&logo=Windows&logoColor=white) ![Graphics](https://img.shields.io/badge/Graphics-8B008B?style=flat-square&logo=OpenGL&logoColor=white)
+
+[![백준 티어](https://solved.ac/profile/hanshinjung15)](https://solved.ac/profile/hanshinjung15)
