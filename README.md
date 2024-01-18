@@ -16,11 +16,11 @@ My Youtube channel is https://www.youtube.com/channel/UCMUd3Fo-A-Xvvo63bakEd4A
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
-    <a href="https://arkchimy1123.tistory.com/">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
-    </a>
     <a href="https://oceanic-bearskin-e23.notion.site/a152c6fa6d92439e91c355ad529acfff?pvs=4">
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
+    </a>
+     <a href="https://arkchimy1123.tistory.com/">
+        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
 
   
