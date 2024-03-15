@@ -6,7 +6,7 @@ My Youtube channel is https://www.youtube.com/channel/UCMUd3Fo-A-Xvvo63bakEd4A
 <h3>👩‍💻 My Github Stats 👩‍💻</h3>
 
 
-[![arkchimy's GitHub stats](https://github-readme-stats.vercel.app/api?username=arkchimy&count_private=true&custom_title=arkchimy's&nbsp;GitHub&nbsp;Stats&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![arkchimy's GitHub stats](https://github-readme-stats.vercel.app/api?username=arkchimy&count_private=true&custom_title=arkchimy's&nbsp;GitHub&nbsp;Stats&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff)](https://github.com/arkchimy)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=arkchimy)](https://solved.ac/arkchimy)
 
