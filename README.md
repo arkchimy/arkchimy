@@ -13,6 +13,7 @@ My Youtube channel is https://www.youtube.com/channel/UCMUd3Fo-A-Xvvo63bakEd4A
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=flat-square&logo=Unreal%20Engine&logoColor=white) ![DirectX](https://img.shields.io/badge/DirectX-0078D6?style=flat-square&logo=DirectX&logoColor=white) ![WinAPI](https://img.shields.io/badge/WinAPI-00AEEF?style=flat-square&logo=Windows&logoColor=white) ![Graphics](https://img.shields.io/badge/Graphics-8B008B?style=flat-square&logo=OpenGL&logoColor=white)
 
 
+
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://oceanic-bearskin-e23.notion.site/a152c6fa6d92439e91c355ad529acfff?pvs=4">
