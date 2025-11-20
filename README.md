@@ -6,7 +6,7 @@ My Youtube channel is https://www.youtube.com/channel/UCMUd3Fo-A-Xvvo63bakEd4A
 <h3>👩‍💻 My Github Stats 👩‍💻</h3>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=arkchimy)](https://solved.ac/arkchimy)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=akchimy)](https://solved.ac/akchimy)
 
 ## 📚 Tech Stack 📚
 
@@ -19,14 +19,14 @@ My Youtube channel is https://www.youtube.com/channel/UCMUd3Fo-A-Xvvo63bakEd4A
     <a href="https://oceanic-bearskin-e23.notion.site/a152c6fa6d92439e91c355ad529acfff?pvs=4">
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
-     <a href="https://arkchimy1123.tistory.com/">
+     <a href="https://akchimy1123.tistory.com/">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
 
   
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
-    <a href="mailto:arkchimy950323@gmail.com">
+    <a href="mailto:akchimy950323@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
 </div><br>
